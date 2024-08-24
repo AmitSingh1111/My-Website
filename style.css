@@ -1,0 +1,90 @@
+body{
+    background-color: #FEFAE0;
+    color: #1E2A5E;
+    text-align: center;
+    font-family: "DM Serif Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.top-container{
+    position: relative;
+    width: 100%;
+}
+.top-container h1{
+    position: absolute;
+    top: 56.5%;
+    left: 2%;
+    color: white;
+    text-shadow:4px 4px 4px rgba(0, 0, 0, 0.5);
+    text-decoration: dashed;
+}
+.top-container img{
+    height: auto;
+    width: 100%;
+}
+.pro{
+    text-decoration: underline;
+}
+.skills h2{
+    display: inline;
+    float: inline-start;
+    font-family: "New Amsterdam", sans-serif;
+    font-size: 3rem;
+    margin-bottom: 4px;
+    margin-top: 3px;
+     
+}
+.pro2{
+    text-decoration: underline;
+}
+.chem-skill{
+    display: inline-block;
+}
+
+.chem-skill img{
+    float: left;
+    height: 200px;
+    width: 230px;
+    margin-top: 43px;
+    border: #17153B;
+    border-radius: 3%;
+    
+}
+.chem-skill h3{
+    display: flex;
+    justify-content: center;
+     
+}
+.profile{
+    background-color:#FEFAE0 ;
+}
+.profile img{
+    height: 155px;
+    width: 155px;
+    border-radius: 50%;
+    
+}
+.other-skill h3{
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: #17153B;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.details div{
+    display: block;
+}
+.footer-link{
+    color: #17153B;
+    margin: 10px 20px;
+}
+.details{
+    background-color: #41B3A2;
+    padding: 50px 0 20px;
+}
+.copyright{
+    margin-top: 3%;
+    color: azure;
+    font-size: 0.8rem;
+}
